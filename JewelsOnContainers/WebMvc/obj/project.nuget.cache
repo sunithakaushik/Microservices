@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VKII3JsLt0RRrnG25mzcLUP3LM20m23wEZyp5++Ri9mPzV08cbmT/dw9LQ5JLiMlKkLTRaOtZ0g6Enl55yy/w==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Microservices\\JewelsOnContainers\\WebMvc\\WebMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skaushik\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\skaushik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

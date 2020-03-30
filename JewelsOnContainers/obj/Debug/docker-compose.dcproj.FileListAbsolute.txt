@@ -1,0 +1,16 @@
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\appsettings.Development.json
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Properties\launchSettings.json
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\ProductCatalogApi.exe
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\appsettings.json
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\ProductCatalogApi.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Repos\Microservices\JewelsOnContainers\bin\Debug\ProductCatalogApi.pdb
+C:\Repos\Microservices\JewelsOnContainers\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Repos\Microservices\JewelsOnContainers\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Repos\Microservices\JewelsOnContainers\obj\Debug\docker-compose.dcproj.CopyComplete

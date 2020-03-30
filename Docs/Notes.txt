@@ -1,0 +1,6 @@
+Add-Migration Initial
+Build started...
+Build succeeded.
+Microsoft.EntityFrameworkCore.Model.Validation[30000]
+      No type was specified for the decimal column 'Price' on entity type 'CatalogItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+To undo this action, use Remove-Migration.
